@@ -1,8 +1,8 @@
 - 👋 Hello, I’m David Anica, a self-taught developer.
 - 🌱 I’m currently learning Python, SQL, and HTML/CSS.
 - 📫 How to reach me:
--     Freecodecamp = handle
--     LinkdIn = handle
+-     Freecodecamp = [handle](https://www.freecodecamp.org/DJ_Anica)
+-     LinkdIn = [handle](https://www.linkedin.com/in/david-anica-g-pk/)
 -     
 
 <!---
