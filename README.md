@@ -3,7 +3,7 @@
 - 📫 How to reach me:
 -     Freecodecamp = [handle](https://www.freecodecamp.org/DJ_Anica)
 -     LinkdIn = [handle](https://www.linkedin.com/in/david-anica-g-pk/)
--     
+     
 
 <!---
 DJ-Anica/DJ-Anica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
