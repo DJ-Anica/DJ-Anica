@@ -1,6 +1,12 @@
  - 👋 Hello, I’m David Anica, a self-taught developer.
  
- - 🌱 I’m currently learning Python, SQL, and HTML/CSS.
+ - 🌱 The languages I'm working with:
+     - HTML5
+     - CSS3
+     - Python
+     - C++
+     - JavaScript
+     - SQL
  
  - 📫 How to reach me:
      - Freecodecamp = [handle](https://www.freecodecamp.org/DJ_Anica)
